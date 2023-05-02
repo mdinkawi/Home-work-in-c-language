@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    // Print name
+    printf("Name: Mohammad Inkawi\n");
+
+    // Print date of birth
+    printf("DoB: October 4, 2003\n");
+
+    // Print mobile number
+    printf("Mobile#: 0594589630\n");
+
+    return 0;
+}
